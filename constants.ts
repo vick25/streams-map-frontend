@@ -59,8 +59,8 @@ export const MOCK_FEATURES: MapFeature[] = [
 export const CATEGORIES = ['All Categories', 'Water Point', 'School', 'Health Center', 'Market'];
 
 export const STATS: StatItem[] = [
-  { value: '50K+', label: 'Active Users' },
-  { value: '2M+', label: 'Features' }, 
+  { value: '50K+', label: 'Personnes actives' },
+  { value: '2M+', label: 'Infrastructures' }, 
   { value: '150+', label: 'Quartier' },
   { value: '99.9%', label: 'Status' }
 ];

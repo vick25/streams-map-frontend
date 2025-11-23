@@ -10,7 +10,7 @@ export const StatsSection: React.FC = () => {
             Success Stories & Testimonials
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Discover how our mapping solutions have transformed businesses and communities worldwide
+            Données en temps réel sur l’état et l’impact des infrastructures de distribution d’eau.
           </p>
         </div>
 
